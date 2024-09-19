@@ -16,14 +16,14 @@
 }
 
 h2 {
-  margin-bottom: 15px;
+  margin-bottom: 0.9rem;
   text-align: center;
-  letter-spacing: 1px;
+  letter-spacing: 0.06rem;
   font-weight: 600;
 }
 
 form {
-  padding: 15px;
+  padding: 0.9rem;
   width: 600px;
   background-color: white;
   border-radius: 10px;
@@ -33,7 +33,7 @@ form {
 form .wrapper {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
 }
 
 .column {
@@ -41,23 +41,23 @@ form .wrapper {
 }
 
 h4 {
-  margin-bottom: 15px;
-  padding-bottom: 5px;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.3rem;
   border-bottom: 2px solid rgb(151, 189, 202);
 }
 
 .row {
-  margin: 5px 0;
+  margin: 0.3rem 0;
 }
 
 h6 {
-  margin-bottom: 5px;
+  margin-bottom: 0.3rem;
   font-weight: 500;
 }
 
 input {
   width: 100%;
-  padding: 5px;
+  padding: 0.3rem;
   background-color: rgb(195, 227, 238);
   border-radius: 5px;
   border: 1px solid #ccc;
@@ -75,16 +75,16 @@ img {
 }
 
 .btn {
-  margin-top: 10px;
-  padding: 12px;
+  margin-top: 0.6rem;
+  padding: 0.75rem;
   width: 100%;
   background-color: rgb(68, 91, 255);
   color: white;
   border: none;
   border-radius: 5px;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 500;
-  letter-spacing: 1px;
+  letter-spacing: 0.6rem;
   cursor: pointer;
   transition: background-color 0.3s;
 }
